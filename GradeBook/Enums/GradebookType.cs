@@ -11,3 +11,4 @@ namespace GradeBook.Enums
         SixPoint
     }
 }
+
